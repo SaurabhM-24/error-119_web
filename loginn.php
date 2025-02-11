@@ -12,6 +12,7 @@ if(isset($_REQUEST['msg']))
   }
   ?>
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
