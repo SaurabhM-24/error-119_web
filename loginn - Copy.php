@@ -24,6 +24,7 @@ if(isset($_REQUEST['msg']))
     <link href='https://fonts.googleapis.com/css?family=Aldrich' rel='stylesheet'>
 
     <title>Sign-up</title>
+  
 </head>
 <body>
     <header>
